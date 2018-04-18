@@ -5,6 +5,6 @@ Experiment with generating mondrian-type mosaic or maybe some kind of pinterest 
 # ToDo
 
 - [X] fast cleaning in JS
-- [ ] install babel and transpile it
-- [ ] minify it
+- [X] install babel and transpile it
+- [X] minify it
 - [ ] ...maybe think about optimizing and new edition (this time with dogs for example)?
